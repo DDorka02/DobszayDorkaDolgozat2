@@ -1,0 +1,24 @@
+.kiv {
+    border:10px solid red;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+}
+
+.kepek{
+    
+    flex: 0 0 15px;
+}
+
+img{
+    border: 1px solid red;
+    gap:20px;
+    margin: 5px;
+    width: auto;
+    
+}
